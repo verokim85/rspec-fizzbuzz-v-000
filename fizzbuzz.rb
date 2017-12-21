@@ -5,6 +5,6 @@ def fizzbuzz(n)
     return "Buzz"
   elsif n / 15 == 1
     return "FizzBuzz"
-  else 
-    return nil 
+  else
+    return "nil"
 end
