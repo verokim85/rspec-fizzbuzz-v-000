@@ -3,5 +3,8 @@ def fizzbuzz(n)
     return "Fizz"
   elsif n / 5 == 1
     return "Buzz"
-
+  elsif n / 15 == 1
+    return "FizzBuzz"
+  else 
+    return nil 
 end
