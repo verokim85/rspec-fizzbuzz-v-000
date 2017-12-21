@@ -1,5 +1,5 @@
 def fizzbuzz(n)
-  if nam / 3 == % 1
+  if n / 3 == % 0
     return "Fizz"
 
 end
