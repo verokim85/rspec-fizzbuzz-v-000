@@ -6,5 +6,4 @@ elsif x % 3 ==  0
   elsif x % 5 == 0
     return "Buzz"
 end
-
 end
